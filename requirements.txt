@@ -1,19 +1,20 @@
 tensorflow==2.18.0
-pandas 
+pandas
+pyarrow>=20.0.0
 gdown
 dvc
-mlflow==2.2.2
+mlflow==3.3.2
 numpy
 matplotlib
 seaborn
-python-box==6.0.2
+python-box==7.3.2
 pyYAML
 tqdm
-ensure==1.0.2
+ensure==1.0.4
 joblib
 types-PyYAML
 scipy
 Flask
 Flask-Cors
 dagshub
--e .
+# -e .
