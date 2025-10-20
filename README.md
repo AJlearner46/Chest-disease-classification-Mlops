@@ -5,11 +5,11 @@
 ## How to run?
 
 ```bash
- conda create -n chest python=3.8 -y
+conda create --prefix D:\conda_envs\chest python=3.10
  ```
 
  ```bash
- conda activate chest
+conda activate D:\conda_envs\chest
  ```
 
  ```bash
